@@ -1,0 +1,23 @@
+.group
+{
+    color:white;
+    background-color:#E50011;
+}
+
+.icon{
+    
+    fill:rgb(228, 81, 81);
+}
+
+.header{
+    height: 150px;
+    background-color:#E50011;
+}
+.hclosebutton{
+    position: absolute;
+  left:100px;
+}
+
+.closeButton{
+fill:white;
+}
